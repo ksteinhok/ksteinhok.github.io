@@ -1,7 +1,7 @@
 Strata by HTML5 UP template
 html5up.net | @ajlkn
 
-Site I Created using HTML5 template, displays some of my recent projects. will be continually updtaed
+Site I Created using HTML5 template, displays some of my recent projects. will be continually updated
 
 
 
