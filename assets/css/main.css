@@ -2141,9 +2141,13 @@ input, select, textarea {
 				display: none;
 			}
 
+			.image.avatar:hover {
+				src: url("../../images/wink.png");
+			}
+
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 140%;
 			}
 
 /* List */
