@@ -513,8 +513,6 @@ footer {
 	
 	
 	transition: transform .2s;
-	width: 300px;
-	height: 300px;
 	margin: 0 auto;
 }
 .zoom:hover{
